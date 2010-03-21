@@ -1,0 +1,6 @@
+---
+gems:
+- name: geminstaller
+  version: = 0.5.4 
+- name: factory_girl
+  version: = 1.2.3
