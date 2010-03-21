@@ -12,7 +12,7 @@ http://github.com/nerded/grocery_list/tree/master
 ## Contributors
 
 * [Adam Duke](http://github.com/adamvduke)
-* [Aaron Kuehler](http://indiebrain.net/blog/)
+* [Aaron Kuehler](http://www.aaronkuehler.com)
 * [Kyle Allan](http://github.com/KAllan357)
 * [Ed Schmalzle](http://www.edschmalzle.com)
 
