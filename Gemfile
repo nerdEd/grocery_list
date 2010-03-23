@@ -9,4 +9,7 @@ group :test do
   gem 'factory_girl'
   gem 'rspec'
   gem 'rspec-rails'
+  gem 'capybara'
+  gem 'cucumber'
+  gem 'cucumber-rails'
 end
