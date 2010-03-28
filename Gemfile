@@ -1,7 +1,10 @@
 source :gemcutter
+
 gem "rails", "~> 2.3.5", :require => nil
 gem "sqlite3-ruby", :require => "sqlite3"
- 
+gem "mongo_mapper"
+gem "mongo_ext"
+
 group :development do
 end
  

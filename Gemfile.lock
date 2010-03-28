@@ -6,6 +6,14 @@ dependencies:
     version: ~> 2.3.5
     require: []
 
+  mongo_mapper: 
+    group: 
+    - :default
+    version: ">= 0"
+  mongo_ext: 
+    group: 
+    - :default
+    version: ">= 0"
   sqlite3-ruby: 
     group: 
     - :default
@@ -83,6 +91,14 @@ specs:
     version: 0.3.0
 - factory_girl: 
     version: 1.2.3
+- jnunemaker-validatable: 
+    version: 1.8.3
+- mongo: 
+    version: 0.19.1
+- mongo_ext: 
+    version: 0.19.1
+- mongo_mapper: 
+    version: 0.7.2
 - rails: 
     version: 2.3.5
 - rspec: 
@@ -91,7 +107,7 @@ specs:
     version: 1.3.2
 - sqlite3-ruby: 
     version: 1.2.5
-hash: 3de659f49c6ab3f2091dc111e0e6a8223fef2f7b
+hash: 8c31b1d6ecfa44213a645e5be138dcc1c0d3cbf0
 sources: 
 - Rubygems: 
     uri: http://gemcutter.org
