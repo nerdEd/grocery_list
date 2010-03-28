@@ -3,4 +3,6 @@ class ListItem
   
   key :name, String
   key :state, String
+  
+  belongs_to :list
 end
